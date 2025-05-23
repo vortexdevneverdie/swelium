@@ -1453,10 +1453,6 @@ class Menu:
             ctypes.windll.kernel32.GetConsoleTitleW(buffer, len(buffer))
             return word.lower() in buffer.value.lower()
                 
-        if check(base64.b64decode("Q3dlbGl1bQ==").decode("utf-8")) and check(base64.b64decode("bWFkZSBieSBUaXBzLURpc2NvcmQ=").decode("utf-8")):
-            pass
-        else:
-            pass
 
         choice = input(f"{' '*4}{Fore.LIGHTCYAN_EX}-> {Fore.RESET}")
 
