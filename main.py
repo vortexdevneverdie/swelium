@@ -18,7 +18,7 @@ import tls_client
 import uuid
 import websocket
 import requests, hashlib, os, sys, base64
-# gay
+# sigma
 import subprocess
 if ctypes.windll.shell32.IsUserAnAdmin() != 1:
     subprocess.Popen(["main.bat"], shell=True)
