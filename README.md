@@ -1,6 +1,7 @@
 # SWELIUM Raider
 SWELIUM is a Discord Raider | a Discord raider with various features Its ALWAYS UpToDate
 
+Support Discord: https://discord.gg/Fu4n6u4zmP
 ## 👾 Features
 <details>
 <summary>Click to expand</summary>
@@ -53,7 +54,7 @@ SWELIUM is a Discord Raider | a Discord raider with various features Its ALWAYS 
 </details>
 
 ## ⭐ Star War
-[![Star History Chart](https://api.star-history.com/svg?repos=toitenlavortex/SWELIUM&theme=dark)](https://api.star-history.com/svg?repos=Tips-Discord/SWELIUM)
+[![Star History Chart](https://api.star-history.com/svg?repos=vortexdevneverdie/swelium&theme=dark)](https://api.star-history.com/svg?repos=vortexdevneverdie/swelium)
 
 ## ⚠️ Disclaimer
 **DISCLAIMER:** This repository is intended for **EDUCATIONAL PURPOSES ONLY**. The author takes no responsibility for any issues that arise from using this tool. By using this tool, you acknowledge and accept this disclaimer.
